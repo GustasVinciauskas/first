@@ -1,0 +1,88 @@
+       .content {
+        width: 100%;
+        max-width: 800px;
+        margin: 100px auto;
+        text-align: center;
+      }
+      img {
+        display: block;
+        margin: 0 auto 10px;
+      }
+      em {
+        color: white;
+        font-weight: bold;
+        font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+      }
+      .comeback {
+        font-size: 100px;
+        letter-spacing: 60px;
+        text-decoration: none;
+        
+      }
+      .Loginbttn {
+        background-color: green;
+        height: 50px;
+        width: 150px;
+        font-size: xx-large;
+        color: white;
+        border-radius: 10%;
+      }
+      .Loginbttn:hover {
+        background-color: darkgreen;
+        color: gray;
+      }
+      .gustomama {
+        width: 200px;
+        height: 200px;
+        float: right;
+        border-radius: 50%;
+        
+      }
+      .dede {
+        width: 100px;
+        border-radius: 50px;
+        float: left;
+        margin-right: 10px;
+      }
+
+      .username {
+        font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+        color: gray;
+        font-weight: bold;
+        font-size: large;
+      }
+      .zinute {
+        cursor: pointer;
+          color: lightblue;
+          font-family: Inter, Segoe UI, Roboto, sans-serif;
+          font-weight: bold;
+      }
+      .aboutme {
+        color: white;
+        font-size: x-large; 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        text-decoration: none;
+      }
+      .aboutme:hover {
+        color: lightskyblue;
+      }
+      .Gustaszoom {
+        width: 600px;
+        height: 600px;
+        float: left;
+      }
+      .GustasTV {
+        width: 500px;
+        height: 500px;
+        float: right;
+      }
+      .Dodemrz {
+        height: 800px;
+        width: 700px;
+      }
+      .bignig {
+        height: 300px;
+        width: 1600px;
+      }
+      
